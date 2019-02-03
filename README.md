@@ -8,11 +8,11 @@ COLORBOT's a simple bot that paints everything into a specific color/any color t
 
 ## Features
 
-[x] Mineral pack! Paint the map into beauty! :sparkles:
-[x] Has a high-level language that you can (kinda) understand.
-[x] Requires a code at start or requires the owner to give the bot edit to start painting.
-[ ] Has a few commands.
-[x] It's in the final version! Planningly no any other updates, except for more packs?
+- Mineral pack! Paint the map into beauty! :sparkles:
+- Has a high-level language that you can (kinda) understand.
+- Requires a code at start or requires the owner to give the bot edit to start painting.
+- ~~Has a few commands.~~
+- It's in the final version! Planningly no any other updates, except for more packs?
 
 ## Requirements
 
